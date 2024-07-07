@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bece
 - 👀 I’m interested in Cellular Networks
-- 🌱 I’m currently learning 5G, Cloudnative
+- 🌱 I’m currently working 5G, Cloudnative
 - 💞️ I’m looking to collaborate on public pages
 - 📫 How to reach me ==>> issue
 
